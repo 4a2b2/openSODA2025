@@ -1,0 +1,27 @@
+GitHub Top Projects Analysis Report
+============================================================
+
+Total Projects Analyzed: 40
+Time Range: 2015-2023
+
+Key Statistics:
+- Average OpenRank: 441.9
+- Max OpenRank: 1954.1
+- Min OpenRank: 124.7
+
+Monthly New Stars Statistics:
+- Average monthly stars: 546
+- Max monthly stars: 2282
+- Total analyzed: 21,857
+
+Top 10 Projects by OpenRank:
+ 1. microsoft/vscode                              OpenRank:  1954.1
+ 2. pytorch/pytorch                               OpenRank:  1328.6
+ 3. microsoft/winget-pkgs                         OpenRank:  1054.3
+ 4. kubernetes/kubernetes                         OpenRank:  1016.8
+ 5. rust-lang/rust                                OpenRank:   948.9
+ 6. google/it-cert-automation-practice            OpenRank:   890.5
+ 7. microsoft/PowerToys                           OpenRank:   784.1
+ 8. python/cpython                                OpenRank:   595.0
+ 9. microsoft/playwright                          OpenRank:   528.9
+10. kubernetes/website                            OpenRank:   479.6

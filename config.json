@@ -1,0 +1,19 @@
+{
+  "data_paths": {
+    "external_metrics": "./original_data/top_300_metrics",
+    "project_root": ".",
+    "output_dir": "./output",
+    "final_report_dir": "./final_report",
+    "github_new_trend_dir": "./github_new_trend"
+  },
+  "analysis": {
+    "time_window": 6,
+    "star_threshold": 5000,
+    "popular_project_definition": "strict"
+  },
+  "visualization": {
+    "font_size": 10,
+    "figsize": [16, 12],
+    "dpi": 300
+  }
+}
